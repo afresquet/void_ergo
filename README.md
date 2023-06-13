@@ -1,7 +1,9 @@
 # VOID Ergo S
 *A handwired split keyboard, running QMK firmware*
 
-Forked from [victorlucachi](https://github.com/victorlucachi/void_ergo) to add (hot swap socket holders by peterlee)[https://www.thingiverse.com/thing:3117549].
+Forked from [victorlucachi](https://github.com/victorlucachi/void_ergo) to add [hot swap socket holders by peterlee](https://www.thingiverse.com/thing:3117549).
+
+Must print with supports!
 
 ![VOID Ergo S](https://i.imgur.com/aQ571vc.jpg)
 
